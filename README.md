@@ -8,7 +8,7 @@
 
 <br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Gana9989-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Gana9989/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Gana9989-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)]([https://leetcode.com/u/Gana9989/](https://leetcode.com/u/Gana_Sai/))
 [![GitHub](https://img.shields.io/badge/GitHub-Gana9989-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gana9989)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
