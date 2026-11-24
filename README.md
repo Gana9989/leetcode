@@ -10,6 +10,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-GanaSai-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Gana_Sai/)
 [![GitHub](https://img.shields.io/badge/GitHub-Gana9989-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gana9989)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Daily](https://img.shields.io/badge/Practice-Daily-success?style=for-the-badge)
